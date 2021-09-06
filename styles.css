@@ -68,23 +68,17 @@ body {
 
 .list-non-bullet{
     list-style: none;
-    display: inline;
-}
-
-/* .list-item {
-    display: inline-block;
-} */
-
-.list-item {
-    display: inline;
-    padding: 1rem;
 }
 
 .social-links {
-    max-width: 0px;
+    padding-inline-start: 0px;
 }
 
+.list-item {
+    display: inline;
+}
 
 .social-img {
     max-width: 60px;
+    padding: 1rem;
 }
