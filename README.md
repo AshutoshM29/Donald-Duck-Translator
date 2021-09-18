@@ -1,14 +1,16 @@
 # Donald Duck Translator
 
-
  A vanilaJS application which translates English into how Donald Duck speaks.
  
+ # Live Project
+ https://donald-speak.netlify.app/
  
 # Technologies Used :
-1.VS Code
 
-2.vanilaJS
+1. Vanila JS
 
-3.HTML
+2. HTML
 
-4.CSS
+3. CSS
+
+4. VS Code
